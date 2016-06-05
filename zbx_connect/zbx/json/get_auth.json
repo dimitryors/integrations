@@ -3,7 +3,7 @@
     "method": "user.login",
     "params": {
         "user": "Admin",
-        "password": "Compaq1234"
+        "password": "admin"
     },
     "id": 1,
     "auth": null
