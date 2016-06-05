@@ -1,0 +1,12 @@
+{
+    "jsonrpc": "2.0",
+    "method": "host.get",
+    "params": {
+        "output": [
+            "hostid",
+            "host"
+        ]
+    },
+    "id": 2,
+    "auth": null
+}
