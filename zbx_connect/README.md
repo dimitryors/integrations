@@ -3,7 +3,7 @@
 
 an erlang application for transfering data from Zabbix to ATSD using API.
 
-**Zabbix Connect** is built via [rebar][rebar]
+**Zabbix Connect** is built via [rebar][rebar] and using [jsx][jsx] erlang library for processing Json.
 
 
 ## quickstart ##
@@ -27,3 +27,8 @@ application:load(zbx).
 application:start(zbx).
 application:stop(zbx).
 ```
+
+
+## acknowledgements ##
+[jsx]: https://github.com/talentdeficit/jsx
+[rebar]: https://github.com/rebar/rebar
