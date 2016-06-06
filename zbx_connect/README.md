@@ -23,7 +23,7 @@ Folder **json** include queries for the Zabbix API. Before you start add **json*
 Add your Zabbix credentials to this query **json/get_auth.json** 
 
 ```erlang
-$ application:load(zbx).
-$ application:start(zbx).
-$ application:stop(zbx).
+application:load(zbx).
+application:start(zbx).
+application:stop(zbx).
 ```
