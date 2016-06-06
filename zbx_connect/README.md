@@ -29,7 +29,6 @@ application:stop(zbx).
 ```
 
 
-## acknowledgements ##
 [jsx]: https://github.com/talentdeficit/jsx
 [rebar]: https://github.com/rebar/rebar
 [atsd]: https://github.com/axibase/atsd-docs
