@@ -1,7 +1,7 @@
 #Zabbix Connect#
 
 
-an erlang application for transfering data from Zabbix to Axibase Time Series Database [atsd][atsd] using API.
+an erlang application for transfering data from Zabbix to [Axibase Time Series Database][atsd] using API.
 
 **Zabbix Connect** is built via [rebar][rebar] and using [jsx][jsx] erlang library for processing Json.
 
